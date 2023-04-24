@@ -1,0 +1,1 @@
+python3 inference.py --checkpoint_path checkpoints/wav2lip_gan.pth --face "../videos/Gosh_hindi_eng/Gosh-Hindi.mp4" --audio "../videos/Gosh_hindi_eng/ghosh_eng_translation.wav"
