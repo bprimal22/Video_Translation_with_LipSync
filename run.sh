@@ -1,1 +1,1 @@
-python3 inference.py --checkpoint_path checkpoints/wav2lip_gan.pth --face "../videos/Gosh_hindi_eng/Gosh-Hindi.mp4" --audio "../videos/Gosh_hindi_eng/ghosh_eng_translation.wav"
+python3 inference.py --checkpoint_path checkpoints/wav2lip.pth --face "../videos/Santacruz_spanish_eng/spanish.mp4" --audio "../videos/Santacruz_spanish_eng/eng_translation.wav" --resize_factor 2
